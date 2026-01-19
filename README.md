@@ -236,8 +236,6 @@ Key references from the literature:
 
 <div align="center">
 
-**If you find this project useful, please consider giving it a star!**
-
 Made with dedication at VIT Vellore
 
 </div>
