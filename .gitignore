@@ -1,0 +1,22 @@
+# HFSS project files
+*.hfssresults/
+*.aedtresults/
+*.lock
+*.log
+
+# ADS files
+*.ads_lib/
+*.dds
+
+# Temporary files
+*.tmp
+*.bak
+*~
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
