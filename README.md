@@ -5,10 +5,11 @@
 [![HFSS](https://img.shields.io/badge/Simulation-Ansys%20HFSS-orange)](https://www.ansys.com/products/electronics/ansys-hfss)
 [![Frequency](https://img.shields.io/badge/Frequency-Sub--6%20GHz-green)](/)
 [![5G](https://img.shields.io/badge/Application-4G%2F5G%20%7C%20Wi--Fi-purple)](/)
+[![VIT](https://img.shields.io/badge/VIT-Vellore-blue)](/)
 
 **A compact, dual-band microstrip patch antenna leveraging CRLH metamaterial principles for next-generation wireless communication systems**
 
-[Overview](#overview) | [Features](#key-features) | [Results](#simulation-results) | [Getting Started](#getting-started) | [Documentation](#documentation) | [Team](#team)
+[Overview](#overview) | [Features](#key-features) | [Results](#simulation-results) | [Getting Started](#getting-started) | [Documentation](#documentation) | [Team](#team) | [Author](#author)
 
 ---
 
@@ -17,6 +18,29 @@
 *3D view of the metamaterial-inspired antenna design in Ansys HFSS*
 
 </div>
+
+---
+
+## About
+
+This project was developed at **VIT Vellore** from August 2024 to December 2024. It demonstrates the design of a compact dual-band metamaterial antenna using CRLH transmission line structures for 4G/5G, Wi-Fi, and IoT applications.
+
+| | |
+|---|---|
+| **Institution** | VIT Vellore |
+| **Duration** | August 2024 - December 2024 |
+| **Team Size** | 3 |
+| **Role** | Team Lead |
+| **Tools** | Ansys HFSS |
+
+### Key Achievements
+
+- Designed compact dual-band metamaterial antenna operating at **2 GHz and 4.5 GHz**
+- Achieved **S11 of -25.48 dB** at 4.5 GHz (excellent impedance matching)
+- Implemented **CRLH (Composite Right/Left-Handed)** transmission line structures
+- Enhanced circular polarization and beam steering capabilities
+- Applied **Zeroth-Order Resonance (ZOR)** for size miniaturization
+- Maintained high gain and efficiency for 4G/5G, Wi-Fi (5 GHz), and IoT applications
 
 ---
 
@@ -198,18 +222,29 @@ This project addresses key challenges in modern antenna design:
 
 ## Team
 
-**Vellore Institute of Technology (VIT), Vellore**  
+**Vellore Institute of Technology (VIT), Vellore**
 School of Electronics Engineering (SENSE)
 
-| Name | Registration No. |
-|------|-----------------|
-| Rupam Mal | 21BEC2178 |
-| Harsh Kumar | 21BEC0706 |
-| Debtonu Bose | 21BEC2099 |
+| Name | Role | Registration No. |
+|------|------|-----------------|
+| **Debtonu Bose** | Team Lead | 21BEC2099 |
+| Rupam Mal | Team Member | 21BEC2178 |
+| Harsh Kumar | Team Member | 21BEC0706 |
 
 **Project Guide**: Dr. Kalyanbrata Ghosh
 
-**Project Duration**: July 2024 - November 2024
+**Project Duration**: August 2024 - December 2024
+
+---
+
+## Author
+
+**Debtonu Bose**
+B.Tech Electronics and Communication Engineering
+Vellore Institute of Technology (2021-2025)
+
+[![GitHub](https://img.shields.io/badge/GitHub-DarkDragoXE-black?logo=github)](https://github.com/DarkDragoXE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-debtonu--bose-blue?logo=linkedin)](https://linkedin.com/in/debtonu-bose)
 
 ---
 
@@ -236,6 +271,6 @@ Key references from the literature:
 
 <div align="center">
 
-Made with dedication at VIT Vellore
+**Metamaterial Antenna Design | VIT Vellore | Ansys HFSS**
 
 </div>
